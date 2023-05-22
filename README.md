@@ -1,4 +1,4 @@
-###👋 Hi, I’m @Kulashree26
+### 👋 Hi, I’m @Kulashree26
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Power BI for Data Analytics and Visualizations.
 - 💞️ I’m looking to collaborate on Linkedin
